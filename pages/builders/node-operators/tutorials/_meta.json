@@ -1,6 +1,0 @@
-{
-    "node-from-docker": "Running a node with Docker",
-    "node-from-source": "Building a node from source",
-    "mainnet": "Running OP Mainnet from source",
-    "testnet": "Running OP Sepolia from source"
-}

@@ -1,7 +1,0 @@
-{
-    "create-l2-rollup": "Creating your own rollup testnet",
-    "adding-derivation-attributes": "Adding attributes to the derivation function",
-    "adding-precompiles": "Adding a precompile",
-    "modifying-predeploys": "Modifying predeployed contracts",
-    "integrating-da-layer": "Integrating a new DA layer"
-}
